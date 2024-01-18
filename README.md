@@ -2,6 +2,6 @@
 
 - 🔭 Atualmente só trabalho com projetos pessoais
 - 🌱 Estou estudando Python
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 
