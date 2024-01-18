@@ -1,7 +1,7 @@
 ### Eae, me chamo Lucas Oliveira e é um prazer enorme ter você aqui!!!!
 
 - 🔭 Atualmente só trabalho com projetos pessoais
-- 🌱 Esstou estudando Python
+- 🌱 Estou estudando Python
 - 😄 Pronouns: ele/dele
 
 
